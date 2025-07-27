@@ -7,7 +7,7 @@ Hi! I'm Manahil Rashid Awan, a college junior studying History, Computer science
 [🇵🇰 but 🇦🇪🇯🇵🇺🇸] my life is spread across four countries. if you could guide me on anything, it’d probably be how to stay still.
 
 ## [🎯]  this summer, I've been...
-**{🌟}** an intern at a refugee resettlement org in San Diego, CA, where I...
+**{🌟}** an intern at a refugee resettlement org in San Diego, CA
 - designed and developed a demo of 'Uplift,' a project to automate document and notification management for caseworkers so they can focus on people, not papers.
 - translated English and Urdu to create clear communication for access to services
 - spent an entire afternoon searching (unsuccessfully) through a filing cabinet of hundreds of pages for a single paper notice
